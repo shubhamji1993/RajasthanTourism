@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="The Tree House"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/adventures_image_1"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adventures_image_1"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The Tree House Resort is located outside the city of Jaipur, and can be reached after driving for about an hour on National Highway 8."/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rohetgarh Wilderness Camp"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/adventures_image_2"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adventures_image_2"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The wilderness camp of Rohetgarh heritage hotel is located outside the city of Jodhpur."/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Desert Safari in Rajasthan"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/adventures_image_3"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adventures_image_3"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jodhpur, Jaisalmer and Bikaner are the perfect places to combine the joys of adventure tours in Rajasthan and camel safaris."/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hot Air Ballooning in Rajasthan"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/adventures_image_4"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adventures_image_4"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Amer Road | Close to the Jal Mahal, Jaipur, India"/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ranthambore National Park"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/adventures_image_5"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/adventures_image_4"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Address"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ranthambore National Park is located in the far east of Rajasthan near its state border with Madhya Pradesh."/>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Johri Bazar"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Coming to Jaipur and not shopping at Johri bazaar would be sacrilege. From gold and silver jewellery to traditional kundan jewellery you can find it all here. While you’re there you can also buy traditional Rajasthani sarees and lehengas. That’s all of Rajasthan in one market, make the most of it. What to Buy: Kundan Jewellery Getting There: Rickshaws, buses, auto rickshaws, or private cabs."/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BAPU BAZAR"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bapu Bazaar is a great place to stock up on embroidered garmentsThis is the fashion street of Jaipur. With a magnificent collection of skirts, leheria stoles and special Jaipuri woolens and shawls, this place is where you can get the best deals on the prettiest things. Bapu Bazaar also has many shops selling Lac jewellery- a must buy from Rajasthan.       What to Buy: Lac Bangles. Getting There: Bapu Bazaar is walking distance from MI Road. You could also hire a rickshaw.  "/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BADI CHAUPAR"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_3"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Badi Chaupar-A perfect place to buy gifts for folks back home                               Shopping in Jaipur has to include shopping at Badi Chaupar. If you're in a hurry and need to shop fast, this is your go-to place. From block printed clothes to traditional souvenirs and gift items, you will find everything here.What to Buy: Embroidered bed sheets    Getting There: Badi Chaupar is walking distance from Hawa Mahal. "/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NEHRU BAZAR"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_4"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The best place to buy Mojris in Jaipur  Another important shopping destination in Jaipur is Nehru Bazaar. If you’re looking at buying beautiful Rajasthani mojris then this is the place to go. There are mojris in different colours and styles and you’ll be spoilt for choice. Nehru Bazaar also has hand printed dress material and bandhani dupattas at affordable prices.                                                What to Buy: Mojris                                    Getting There: Nehru Bazaar is located at MI Road, one of Jaipur’s most central locations. "/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CHAURA RASTA"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_5"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your best bet for all things stationary Another thing that Jaipur is well known for is the variety of fine hand-printed paper. Chaura Rasta is a delight for stationery lovers. You’ll find a wide assortment of papers and books at affordable prices. What to Buy: Handmade paper diaries                    Getting There: Chaura Rasta is near Jantar Mantar and is easily accessible by public transport."/>
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GAURAV TOWERS"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_6"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Don't be misled by the notion that just because this is a mall it will have overpriced clothes and accessories. Gaurav Towers has the best of everything all under one roof. Right from brands like Provogue, Bata, Woodland and Levis. Apart from that there are many other stores selling designer clothes, ethnic wear and accessories. This is also a great place to stock up on cosmetics. There are also many restaurants where you can sample delicious chaat, dosas and rolls.                                             What to Buy: Handbags and cosmetics                    Getting There: Gaurav Towers is located in Malviya Nagar and you can hire an auto or a cab. "/>
+
+
+    <TextView
+        android:layout_marginTop="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BLUE POTTERY"
+        android:textStyle="bold"/>
+    <ImageView
+        android:id="@+id/traditional_image_7"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Interesting Facts"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Palace Road, Jaipur, Rajasthan 302006"/>
+    </LinearLayout>
+
+
+</ScrollView>
